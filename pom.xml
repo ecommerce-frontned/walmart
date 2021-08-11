@@ -4,4 +4,5 @@
   <groupId>com.mt</groupId>
   <artifactId>walmart</artifactId>
   <version>1</version>
+  <package>war</package>
 </project>
